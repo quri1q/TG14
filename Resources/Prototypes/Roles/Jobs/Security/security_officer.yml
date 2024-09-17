@@ -4,8 +4,7 @@
   description: job-description-security
   playTimeTracker: JobSecurityOfficer
   requirements:
-    - !type:DepartmentTimeRequirement
-      department: Security
+    - !type:OverallPlaytimeRequirement
       time: 36000 #10 hrs
   startingGear: SecurityOfficerGear
   icon: "JobIconSecurityOfficer"
