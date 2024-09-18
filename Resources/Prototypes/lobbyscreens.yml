@@ -11,10 +11,6 @@
   background: /Textures/LobbyScreens/ssxiv.webp
 
 - type: lobbyBackground
-  id: Susstation
-  background: /Textures/LobbyScreens/susstation.webp
-
-- type: lobbyBackground
   id: SkellyVsTheRev
   background: /Textures/LobbyScreens/skellyvstherev.webp
 
@@ -31,10 +27,6 @@
   background: /Textures/LobbyScreens/behonker.webp
 
 - type: lobbyBackground
-  id: TerminalStation
-  background: /Textures/LobbyScreens/terminalstation.webp
-
-- type: lobbyBackground
   id: JustAWeekAway
   background: /Textures/LobbyScreens/justaweekaway.webp
 
@@ -46,3 +38,46 @@
   id: ReclaimerNuke
   background: /Textures/LobbyScreens/reclaimer-nuke.webp
   
+- type: lobbyBackground
+  id: FallenStation
+  background: /Textures/LobbyScreens/fallenstation.png
+
+- type: lobbyBackground
+  id: Robotics
+  background: /Textures/LobbyScreens/robotics.png
+  
+- type: lobbyBackground
+  id: SuperMatter
+  background: /Textures/LobbyScreens/supermatter.png
+
+- type: lobbyBackground
+  id: SpaceJunk
+  background: /Textures/LobbyScreens/bugspacepaint.png
+  
+- type: lobbyBackground
+  id: BugPaper
+  background: /Textures/LobbyScreens/bugwallpaper.png
+
+- type: lobbyBackground
+  id: Malf
+  background: /Textures/LobbyScreens/malf.png
+  
+- type: lobbyBackground
+  id: Nov19
+  background: /Textures/LobbyScreens/nov19.png
+
+- type: lobbyBackground
+  id: NotHeck
+  background: /Textures/LobbyScreens/probablynotheck.png
+  
+- type: lobbyBackground
+  id: NotQM
+  background: /Textures/LobbyScreens/probablynotqm.png
+
+- type: lobbyBackground
+  id: Researcher
+  background: /Textures/LobbyScreens/researcher.png
+  
+- type: lobbyBackground
+  id: ShoeStealer
+  background: /Textures/LobbyScreens/shoestealer.png
