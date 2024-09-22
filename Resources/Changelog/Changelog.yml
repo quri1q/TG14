@@ -1,27 +1,4 @@
 ﻿Entries:
-- author: SlamBamActionman
-  changes:
-  - message: RGBee and Rainbow Carp plushies now cycle color when held/worn.
-    type: Fix
-  id: 6917
-  time: '2024-07-14T10:26:34.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/30023
-- author: Winkarst-cpu
-  changes:
-  - message: Now grappling gun is clumsy proof.
-    type: Tweak
-  id: 6918
-  time: '2024-07-14T10:26:56.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/29904
-- author: HahayesSiH
-  changes:
-  - message: It is now possible to pet cyborgs.
-    type: Add
-  - message: Clicking on cyborgs and opening the strip menu no longer unlocks them.
-    type: Tweak
-  id: 6919
-  time: '2024-07-14T14:09:41.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/30037
 - author: deltanedas
   changes:
   - message: Fixed ninja shoes not working as magboots.
@@ -3923,3 +3900,24 @@
   id: 7416
   time: '2024-09-22T08:21:41.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/32370
+- author: ravage123321
+  changes:
+  - message: You can make a holy helmet from holymelons!
+    type: Add
+  id: 7417
+  time: '2024-09-22T10:33:08.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/32272
+- author: saga3152
+  changes:
+  - message: Citrus plants can now be mutated into each other.
+    type: Add
+  id: 7418
+  time: '2024-09-22T15:15:12.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/32306
+- author: PotentiallyTom
+  changes:
+  - message: Vent pressure lockout can be temporarily disabled with a screwdriver
+    type: Tweak
+  id: 7419
+  time: '2024-09-22T19:59:56.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/31050
